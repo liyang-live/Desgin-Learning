@@ -37,6 +37,7 @@ namespace pipeline_Demo
             {
                 Console.WriteLine(g.Name + "..." + g.Price + "元");
             });
+
         }
     }
 
